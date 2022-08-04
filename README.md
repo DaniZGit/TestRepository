@@ -9,5 +9,3 @@ some more text
 changes in here =?
 
 now im changin the branch again buttt the master is being changed as well!
-
-some yarn changes
